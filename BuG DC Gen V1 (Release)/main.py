@@ -12,7 +12,7 @@ from capmonster_python import HCaptchaTask
 from pyOutlook import OutlookAccount
 from tkinter import messagebox
 import uuid
-# Constants
+
 HOTMAILBOX_API_KEY = "your_hotmailbox_api_key"
 SMS_ACTIVATE_API_KEY = "your_sms_activate_api_key"
 
